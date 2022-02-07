@@ -22,6 +22,11 @@ const data = {
     "1": "https://www.youtube.com/watch?v=W9Pb412Bloc",
     "2": "https://www.youtube.com/watch?v=lTlzDfhPtFA",
   },
+  "Kimetsu no Yaiba": {
+    "1": "https://www.youtube.com/watch?v=nfsnTGAxF04",
+    "2": "https://www.youtube.com/watch?v=8-K2Xo1EEkE",
+    "3": "https://www.youtube.com/watch?v=FCgACOkmwtg",
+  },
   "My Hero Academia": {
     "1": "https://www.youtube.com/watch?v=yu0HjPzFYnY",
     "2": "https://www.youtube.com/watch?v=Q7w5IMyJ3pM",
