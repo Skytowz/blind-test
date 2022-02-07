@@ -37,6 +37,9 @@ const data = {
     "6": "https://www.youtube.com/watch?v=M5bKaHHD_Ls",
     "7": "https://www.youtube.com/watch?v=odPRf2FRfRM",
   },
+  "Hunter x Hunter": {
+    "1": "https://www.youtube.com/watch?v=faqmNf_fZlE",
+  },
   "JoJo's Bizarre Adventure":{
     "1": "https://www.youtube.com/watch?v=eZkehdHmXO8",
     "2": "https://www.youtube.com/watch?v=_ih7vT0CrLE",
