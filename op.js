@@ -6,6 +6,9 @@ const data = {
   "Angel Beats!":{
     "1": "https://www.youtube.com/watch?v=Turf7WDB3iY",
   },
+  "Domestic na kanojo":{
+    "1": "https://www.youtube.com/watch?v=Ua5UARWRYLA",
+  },
   "Dr Stone":{
     "1": "https://www.youtube.com/watch?v=tF4faMbs5oQ",
     "2": "https://www.youtube.com/watch?v=SohCAjC-Npk",
