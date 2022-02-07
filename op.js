@@ -27,6 +27,15 @@ const data = {
     "2": "https://www.youtube.com/watch?v=8-K2Xo1EEkE",
     "3": "https://www.youtube.com/watch?v=FCgACOkmwtg",
   },
+  "Kuroko no Basket": {
+    "1": "https://www.youtube.com/watch?v=5RVEM8-UKlg",
+    "2": "https://www.youtube.com/watch?v=ZYZSwzmgCTU",
+    "3": "https://www.youtube.com/watch?v=m_eZs7Ix9-s",
+    "4": "https://www.youtube.com/watch?v=wG5xLhfuT4g",
+    "5": "https://www.youtube.com/watch?v=WrzpLdU7eWU",
+    "6": "https://www.youtube.com/watch?v=833F3rQr9lg",
+    "7": "https://www.youtube.com/watch?v=yPaqhJ12YqY",
+  },
   "My Hero Academia": {
     "1": "https://www.youtube.com/watch?v=yu0HjPzFYnY",
     "2": "https://www.youtube.com/watch?v=Q7w5IMyJ3pM",
