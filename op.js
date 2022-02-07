@@ -1,10 +1,26 @@
 const data = {
+  "Eyeshield 21": {
+    "1": "https://www.youtube.com/watch?v=Hi7NrTs0Wg8",
+    "2": "https://www.youtube.com/watch?v=SXrLLcPRpiA",
+    "3": "https://www.youtube.com/watch?v=PkdCpPK1vFY",
+    "4": "https://www.youtube.com/watch?v=VBRwSOWTxPc",
+    "5": "https://www.youtube.com/watch?v=1s12uCoRSQM",
+  },
   "Full Metal Alchemist Brotherhood":{
     "1": "https://www.youtube.com/watch?v=ShEAiFqkY0E",
     "2": "https://www.youtube.com/watch?v=HusCOOG9e5Q",
     "3": "https://www.youtube.com/watch?v=et7oxRRkPEo",
     "4": "https://www.youtube.com/watch?v=KMZBauH47Jo",
     "5": "https://www.youtube.com/watch?v=Es6cGvAv-pc",
+  },
+  "Haikyū!!":{
+    "1": "https://www.youtube.com/watch?v=KBkqRCn4INY",
+    "2": "https://www.youtube.com/watch?v=5cwL3Ml8LEg",
+    "3": "https://www.youtube.com/watch?v=A2cTn1DtwEQ",
+    "4": "https://www.youtube.com/watch?v=kDfqdmrRRSA",
+    "5": "https://www.youtube.com/watch?v=OTio-0LwlXE",
+    "6": "https://www.youtube.com/watch?v=M5bKaHHD_Ls",
+    "7": "https://www.youtube.com/watch?v=odPRf2FRfRM",
   },
   "JoJo's Bizarre Adventure":{
     "1": "https://www.youtube.com/watch?v=eZkehdHmXO8",
