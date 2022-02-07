@@ -6,6 +6,11 @@ const data = {
   "Angel Beats!":{
     "1": "https://www.youtube.com/watch?v=Turf7WDB3iY",
   },
+  "Dr Stone":{
+    "1": "https://www.youtube.com/watch?v=tF4faMbs5oQ",
+    "2": "https://www.youtube.com/watch?v=SohCAjC-Npk",
+    "3": "https://www.youtube.com/watch?v=fkAL_LeCsZs",
+  },
   "Eyeshield 21": {
     "1": "https://www.youtube.com/watch?v=Hi7NrTs0Wg8",
     "2": "https://www.youtube.com/watch?v=SXrLLcPRpiA",
