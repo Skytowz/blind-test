@@ -82,6 +82,10 @@ const data = {
     "1": "https://www.youtube.com/watch?v=HRaoYuRKBaA",
     "2": "https://www.youtube.com/watch?v=54dp8ucsGG8",
   },
+  "Slam Dunk":{
+    "1": "https://www.youtube.com/watch?v=nadLmrr4fUM",
+    "2": "https://www.youtube.com/watch?v=hXQwW8GCUWE",
+  },
   "Shingeki no Kyojin": {
     "1": "https://www.youtube.com/watch?v=8OkpRK2_gVs",
     "2": "https://www.youtube.com/watch?v=PbWFpzi8C94",
