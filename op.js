@@ -53,6 +53,9 @@ const data = {
     "1": "https://www.youtube.com/watch?v=W9Pb412Bloc",
     "2": "https://www.youtube.com/watch?v=lTlzDfhPtFA",
   },
+  "Kanojo, okarishimasu": {
+    "1": "https://www.youtube.com/watch?v=cM1WSovcn4I",
+  },
   "Kimetsu no Yaiba": {
     "1": "https://www.youtube.com/watch?v=nfsnTGAxF04",
     "2": "https://www.youtube.com/watch?v=8-K2Xo1EEkE",
