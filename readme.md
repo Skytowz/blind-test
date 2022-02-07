@@ -6,7 +6,7 @@ Bonjour est bienvenue sur mon blind test anime!
     
 Les commits des nouveaux animes utilise cette template:
 ```bash
-git commit -am "add [Nom anime]"
+./push.sh [Nom anime]
 ```
 
 ## Liste animes
