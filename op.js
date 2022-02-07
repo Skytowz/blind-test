@@ -32,5 +32,17 @@ const data = {
     "3": "https://www.youtube.com/watch?v=et7oxRRkPEo",
     "4": "https://www.youtube.com/watch?v=KMZBauH47Jo",
     "5": "https://www.youtube.com/watch?v=Es6cGvAv-pc",
-  }
+  },
+  "JoJo's Bizarre Adventure":{
+    "1": "https://www.youtube.com/watch?v=eZkehdHmXO8",
+    "2": "https://www.youtube.com/watch?v=_ih7vT0CrLE",
+    "3": "https://www.youtube.com/watch?v=eLwuQwKs4yA",
+    "4": "https://www.youtube.com/watch?v=5W2oAAcxgBk",
+    "5": "https://www.youtube.com/watch?v=lKDwS2hnQ24",
+    "6": "https://www.youtube.com/watch?v=DK6yXtieHzI",
+    "7": "https://www.youtube.com/watch?v=F0le5lqYgC8",
+    "8": "https://www.youtube.com/watch?v=rhbMPUp4Yvw",
+    "9": "https://www.youtube.com/watch?v=jcbKaK-oK2o",
+    "10":"https://www.youtube.com/watch?v=1dPn7GvdfnI",
+  },
 };
