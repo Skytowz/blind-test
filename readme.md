@@ -9,7 +9,8 @@ Les commits des nouveaux animes utilise cette template:
 git commit -am "add [Nom anime]"
 ```
 
-## Liste animes- All Out
+## Liste animes
+- All Out
 - Angel Beats!
 - Assassination Classroom
 - Domestic na kanojo
