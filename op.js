@@ -126,7 +126,13 @@ const data = {
     "7": "https://www.youtube.com/watch?v=Ij6YZ3LYZNo",
     "8": "https://www.youtube.com/watch?v=Tp21JVWY0A8",
   },
+  "To Love Ru": {
+    "1": "https://www.youtube.com/watch?v=ZRoxOkg3WCI",
+    "2": "https://www.youtube.com/watch?v=sXZpOfsq1TA",
+    "3": "https://www.youtube.com/watch?v=fVwTk7wk7ew",
+    "4": "https://www.youtube.com/watch?v=6ogz68X3HUE",
+  },
   "World's End Harem":{
     "1": "https://www.youtube.com/watch?v=sM6kJHEbr7g",
-  }
+  },
 };
