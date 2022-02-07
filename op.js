@@ -53,6 +53,10 @@ const data = {
     "1": "https://www.youtube.com/watch?v=W9Pb412Bloc",
     "2": "https://www.youtube.com/watch?v=lTlzDfhPtFA",
   },
+  "Kakegurui": {
+    "1": "https://www.youtube.com/watch?v=Lb3Q5WwogFg",
+    "2": "https://www.youtube.com/watch?v=FehcpLOOlzE",
+  },
   "Kanojo, okarishimasu": {
     "1": "https://www.youtube.com/watch?v=cM1WSovcn4I",
   },
