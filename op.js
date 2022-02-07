@@ -87,6 +87,10 @@ const data = {
     "1": "https://www.youtube.com/watch?v=HRaoYuRKBaA",
     "2": "https://www.youtube.com/watch?v=54dp8ucsGG8",
   },
+  "The Quintessential Quintuplets":{
+    "1": "https://www.youtube.com/watch?v=pVuo4UmHx8M",
+    "2": "https://www.youtube.com/watch?v=2oQSUoGhEBg",
+  },
   "Samurai Champloo":{
     "1": "https://www.youtube.com/watch?v=Eq6EYcpWB_c",
   },
