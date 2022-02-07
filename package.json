@@ -1,0 +1,19 @@
+{
+  "name": "blind-test",
+  "version": "1.0.0",
+  "description": "Bonjour est bienvenue sur mon blind test anime!",
+  "main": "generateReadMe.js",
+  "scripts": {
+    "start": "node generateReadMe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skytowz/blind-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skytowz/blind-test/issues"
+  },
+  "homepage": "https://github.com/Skytowz/blind-test#readme"
+}
