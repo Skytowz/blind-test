@@ -125,5 +125,8 @@ const data = {
     "6": "https://www.youtube.com/watch?v=uEO_D0Cz2R8",
     "7": "https://www.youtube.com/watch?v=Ij6YZ3LYZNo",
     "8": "https://www.youtube.com/watch?v=Tp21JVWY0A8",
+  },
+  "World's End Harem":{
+    "1": "https://www.youtube.com/watch?v=sM6kJHEbr7g",
   }
 };
