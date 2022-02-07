@@ -6,6 +6,12 @@ const data = {
   "Angel Beats!":{
     "1": "https://www.youtube.com/watch?v=Turf7WDB3iY",
   },
+  "Assassination Classroom": {
+    "1": "https://www.youtube.com/watch?v=KS9UfmCFn_Y",
+    "2": "https://www.youtube.com/watch?v=tNZ-6xLUoCA",
+    "3": "https://www.youtube.com/watch?v=iug12DnMNHQ",
+    "4": "https://www.youtube.com/watch?v=c_J7ybxenOQ",
+  },
   "Domestic na kanojo":{
     "1": "https://www.youtube.com/watch?v=Ua5UARWRYLA",
   },
