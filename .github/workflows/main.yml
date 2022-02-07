@@ -24,4 +24,4 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: generate Readme.md
-        run: node generateReadMe.js
+        run: node ./generateReadMe.js
