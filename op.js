@@ -58,6 +58,10 @@ const data = {
     "9": "https://www.youtube.com/watch?v=jcbKaK-oK2o",
     "10":"https://www.youtube.com/watch?v=1dPn7GvdfnI"
   },
+  "Jujutsu Kaisen": {
+    "1": "https://www.youtube.com/watch?v=GwaRztMaoY0",
+    "2": "https://www.youtube.com/watch?v=LFTE4W--Htk"
+  },
   "Kaguya-Sama": {
     "1": "https://www.youtube.com/watch?v=W9Pb412Bloc",
     "2": "https://www.youtube.com/watch?v=lTlzDfhPtFA"
