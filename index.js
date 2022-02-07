@@ -94,7 +94,7 @@ const init = () => {
 
 const getRandomItem = (data) => {
   const keys = Object.keys(data);
-  const item = window.crypto.getRandomValues(keys);
+  const item = keys[Math.floor(Math.random() * keys.length)];
   return item;
 };
 
