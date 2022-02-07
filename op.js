@@ -53,5 +53,15 @@ const data = {
     "5": "https://www.youtube.com/watch?v=0dK7JgKivQM",
     "6": "https://www.youtube.com/watch?v=rmgSeLqsduM",
     "7": "https://www.youtube.com/watch?v=9l9Wa-5ph6o",
+  },
+  "Sword Art Online": {
+    "1": "https://www.youtube.com/watch?v=vI8W_XYT29Q",
+    "2": "https://www.youtube.com/watch?v=O8T2u83GIiI",
+    "3": "https://www.youtube.com/watch?v=Mqp4X1uuYZc",
+    "4": "https://www.youtube.com/watch?v=-I4wJp8286Q",
+    "5": "https://www.youtube.com/watch?v=8JPUA2U-rSY",
+    "6": "https://www.youtube.com/watch?v=uEO_D0Cz2R8",
+    "7": "https://www.youtube.com/watch?v=Ij6YZ3LYZNo",
+    "8": "https://www.youtube.com/watch?v=Tp21JVWY0A8",
   }
 };
