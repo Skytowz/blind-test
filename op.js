@@ -12,6 +12,10 @@ const data = {
     "3": "https://www.youtube.com/watch?v=iug12DnMNHQ",
     "4": "https://www.youtube.com/watch?v=c_J7ybxenOQ"
   },
+  "Death Note": {
+    "1": "https://www.youtube.com/watch?v=8QE9cmfxx4s",
+    "2": "https://www.youtube.com/watch?v=17QwzxR81XQ"
+  },
   "Domestic na kanojo":{
     "1": "https://www.youtube.com/watch?v=Ua5UARWRYLA"
   },

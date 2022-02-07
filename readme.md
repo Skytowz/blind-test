@@ -10,10 +10,11 @@ git commit -am "add [Nom anime]"
 ```
 
 ## Liste animes
-> 28 animes
+> 30 animes
 - All Out
 - Angel Beats!
 - Assassination Classroom
+- Death Note
 - Domestic na kanojo
 - Dr Stone
 - Eyeshield 21
@@ -21,6 +22,7 @@ git commit -am "add [Nom anime]"
 - Haikyū!!
 - Hunter x Hunter
 - JoJo's Bizarre Adventure
+- Jujutsu Kaisen
 - Kaguya-Sama
 - Kakegurui
 - Kanojo, okarishimasu

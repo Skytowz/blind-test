@@ -4,7 +4,7 @@
   "description": "Bonjour est bienvenue sur mon blind test anime!",
   "main": "generateReadMe.js",
   "scripts": {
-    "start": "node generateReadMe.js"
+    "build": "node generateReadMe.js"
   },
   "repository": {
     "type": "git",
