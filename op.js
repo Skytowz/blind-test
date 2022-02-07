@@ -150,5 +150,5 @@ const data = {
   },
   "World's End Harem":{
     "1": "https://www.youtube.com/watch?v=sM6kJHEbr7g",
-  },
+  }
 };
