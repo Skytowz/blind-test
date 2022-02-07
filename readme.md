@@ -10,6 +10,7 @@ git commit -am "add [Nom anime]"
 ```
 
 ## Liste animes
+> 28 animes
 - All Out
 - Angel Beats!
 - Assassination Classroom
