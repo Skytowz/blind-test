@@ -1,4 +1,8 @@
 const data = {
+  "All Out":{
+    "1": "https://www.youtube.com/watch?v=XB1HlGMuSKY",
+    "2": "https://www.youtube.com/watch?v=0rQiHJzLpA8",
+  },
   "Eyeshield 21": {
     "1": "https://www.youtube.com/watch?v=Hi7NrTs0Wg8",
     "2": "https://www.youtube.com/watch?v=SXrLLcPRpiA",
