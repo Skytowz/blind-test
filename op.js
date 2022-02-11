@@ -12,6 +12,10 @@ const data = {
     "3": "https://www.youtube.com/watch?v=iug12DnMNHQ",
     "4": "https://www.youtube.com/watch?v=c_J7ybxenOQ"
   },
+  "Beastars": {
+    "1": "https://www.youtube.com/watch?v=bgo9dJB_icw",
+    "2": "https://www.youtube.com/watch?v=-5M4lbEpn6c"
+  },
   "Bleach": {
     "1": "https://www.youtube.com/watch?v=_ty-Nqm4Pdc",
     "2": "https://www.youtube.com/watch?v=92TEcszkRBw",

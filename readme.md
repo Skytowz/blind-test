@@ -10,10 +10,11 @@ Les commits des nouveaux animes utilise cette template:
 ```
 
 ## Liste animes
-> 33 animes
+> 34 animes
 - All Out
 - Angel Beats!
 - Assassination Classroom
+- Beastars
 - Bleach
 - Death Note
 - Domestic na kanojo
