@@ -10,7 +10,7 @@ Les commits des nouveaux animes utilise cette template:
 ```
 
 ## Liste animes
-> 32 animes
+> 33 animes
 - All Out
 - Angel Beats!
 - Assassination Classroom
@@ -20,6 +20,7 @@ Les commits des nouveaux animes utilise cette template:
 - Dr Stone
 - Eyeshield 21
 - Full Metal Alchemist Brotherhood
+- Fire Force
 - Haikyū!!
 - Hunter x Hunter
 - JoJo's Bizarre Adventure

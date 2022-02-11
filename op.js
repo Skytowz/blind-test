@@ -54,6 +54,12 @@ const data = {
     "4": "https://www.youtube.com/watch?v=KMZBauH47Jo",
     "5": "https://www.youtube.com/watch?v=Es6cGvAv-pc"
   },
+  "Fire Force": {
+    "1": "https://www.youtube.com/watch?v=JBqxVX_LXvk",
+    "2": "https://www.youtube.com/watch?v=t0WClcc-aVs",
+    "3": "https://www.youtube.com/watch?v=QmMRGuJT0eg",
+    "4": "https://www.youtube.com/watch?v=lJZUZpj8jC8"
+  },
   "Haikyū!!":{
     "1": "https://www.youtube.com/watch?v=KBkqRCn4INY",
     "2": "https://www.youtube.com/watch?v=5cwL3Ml8LEg",
