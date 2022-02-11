@@ -162,6 +162,10 @@ const data = {
     "7": "https://www.youtube.com/watch?v=Ij6YZ3LYZNo",
     "8": "https://www.youtube.com/watch?v=Tp21JVWY0A8"
   },
+  "Soul eater": {
+    "1": "https://www.youtube.com/watch?v=zzJ8U8OtEsE",
+    "2": "https://www.youtube.com/watch?v=-eYK3YP524A",
+  },
   "The Quintessential Quintuplets":{
     "1": "https://www.youtube.com/watch?v=pVuo4UmHx8M",
     "2": "https://www.youtube.com/watch?v=2oQSUoGhEBg"
