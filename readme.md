@@ -10,10 +10,11 @@ Les commits des nouveaux animes utilise cette template:
 ```
 
 ## Liste animes
-> 30 animes
+> 32 animes
 - All Out
 - Angel Beats!
 - Assassination Classroom
+- Bleach
 - Death Note
 - Domestic na kanojo
 - Dr Stone
@@ -38,6 +39,7 @@ Les commits des nouveaux animes utilise cette template:
 - Slam Dunk
 - Shingeki no Kyojin
 - Sword Art Online
+- Soul eater
 - The Quintessential Quintuplets
 - To Love Ru
 - World's End Harem

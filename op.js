@@ -26,7 +26,7 @@ const data = {
     "11": "https://www.youtube.com/watch?v=VUgxCUd3Bsk",
     "12": "https://www.youtube.com/watch?v=FMAcoACivPU",
     "13": "https://www.youtube.com/watch?v=XXjgwpayNoM",
-    "14": "https://www.youtube.com/watch?v=ifrTLAd6UQY",
+    "14": "https://www.youtube.com/watch?v=ifrTLAd6UQY"
   },
   "Death Note": {
     "1": "https://www.youtube.com/watch?v=8QE9cmfxx4s",
@@ -164,7 +164,7 @@ const data = {
   },
   "Soul eater": {
     "1": "https://www.youtube.com/watch?v=zzJ8U8OtEsE",
-    "2": "https://www.youtube.com/watch?v=-eYK3YP524A",
+    "2": "https://www.youtube.com/watch?v=-eYK3YP524A"
   },
   "The Quintessential Quintuplets":{
     "1": "https://www.youtube.com/watch?v=pVuo4UmHx8M",
