@@ -51,18 +51,46 @@ const data = {
     "4": "https://www.youtube.com/watch?v=VBRwSOWTxPc",
     "5": "https://www.youtube.com/watch?v=1s12uCoRSQM"
   },
-  "Full Metal Alchemist Brotherhood":{
-    "1": "https://www.youtube.com/watch?v=ShEAiFqkY0E",
-    "2": "https://www.youtube.com/watch?v=HusCOOG9e5Q",
-    "3": "https://www.youtube.com/watch?v=et7oxRRkPEo",
-    "4": "https://www.youtube.com/watch?v=KMZBauH47Jo",
-    "5": "https://www.youtube.com/watch?v=Es6cGvAv-pc"
+  "Fairy Tail": {
+    "1": "https://www.youtube.com/watch?v=8EMCTHpRnJE",
+    "2": "https://www.youtube.com/watch?v=ITpSB6oESTs",
+    "3": "https://www.youtube.com/watch?v=T60pzAKu60Q",
+    "4": "https://www.youtube.com/watch?v=541eU9pWf5U",
+    "5": "https://www.youtube.com/watch?v=4bQnrQC4wmA",
+    "6": "https://www.youtube.com/watch?v=FwHU32HL3SE",
+    "7": "https://www.youtube.com/watch?v=-EN_FlepRL4",
+    "8": "https://www.youtube.com/watch?v=aVMUbTT-acI",
+    "9": "https://www.youtube.com/watch?v=QlazhMnDpc8",
+    "10": "https://www.youtube.com/watch?v=vyoPvMjVVU3w",
+    "11": "https://www.youtube.com/watch?v=FvL8_a9wtsg",
+    "12": "https://www.youtube.com/watch?v=R5sa0Yl8RVU",
+    "13": "https://www.youtube.com/watch?v=nl3DsjeZ3RM",
+    "14": "https://www.youtube.com/watch?v=1wdp7Ndnpxw",
+    "15": "https://www.youtube.com/watch?v=aqRuzjIBkxY",
+    "16": "https://www.youtube.com/watch?v=WFYbjWAlnpA",
+    "17": "https://www.youtube.com/watch?v=qpvkFgW109I",
+    "18": "https://www.youtube.com/watch?v=YFhrUeA7O-A",
+    "19": "https://www.youtube.com/watch?v=Pq_b_LK-L9U",
+    "20": "https://www.youtube.com/watch?v=3nKD5sPumiA",
+    "21": "https://www.youtube.com/watch?v=b36-p0UryRw",
+    "22": "https://www.youtube.com/watch?v=e-7uuV7B7mo",
+    "23": "https://www.youtube.com/watch?v=hA5P15f8i9I",
+    "24": "https://www.youtube.com/watch?v=8z5YOOLDJAU",
+    "25": "https://www.youtube.com/watch?v=YAi8K_5pHWA",
+    "26": "https://www.youtube.com/watch?v=rrS0y1a_q8k"
   },
   "Fire Force": {
     "1": "https://www.youtube.com/watch?v=JBqxVX_LXvk",
     "2": "https://www.youtube.com/watch?v=t0WClcc-aVs",
     "3": "https://www.youtube.com/watch?v=QmMRGuJT0eg",
     "4": "https://www.youtube.com/watch?v=lJZUZpj8jC8"
+  },
+  "Full Metal Alchemist Brotherhood":{
+    "1": "https://www.youtube.com/watch?v=ShEAiFqkY0E",
+    "2": "https://www.youtube.com/watch?v=HusCOOG9e5Q",
+    "3": "https://www.youtube.com/watch?v=et7oxRRkPEo",
+    "4": "https://www.youtube.com/watch?v=KMZBauH47Jo",
+    "5": "https://www.youtube.com/watch?v=Es6cGvAv-pc"
   },
   "Haikyū!!":{
     "1": "https://www.youtube.com/watch?v=KBkqRCn4INY",
