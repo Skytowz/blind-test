@@ -12,6 +12,22 @@ const data = {
     "3": "https://www.youtube.com/watch?v=iug12DnMNHQ",
     "4": "https://www.youtube.com/watch?v=c_J7ybxenOQ"
   },
+  "Bleach": {
+    "1": "https://www.youtube.com/watch?v=_ty-Nqm4Pdc",
+    "2": "https://www.youtube.com/watch?v=92TEcszkRBw",
+    "3": "https://www.youtube.com/watch?v=2edBgIH7y68",
+    "4": "https://www.youtube.com/watch?v=375Axn5QB_s",
+    "5": "https://www.youtube.com/watch?v=YTMrvnyhMac",
+    "6": "https://www.youtube.com/watch?v=gxTIr0o1GiE",
+    "7": "https://www.youtube.com/watch?v=OvahxFH7IGg",
+    "8": "https://www.youtube.com/watch?v=lskHdGUEWfQ",
+    "9": "https://www.youtube.com/watch?v=7O87OdsVOIE",
+    "10": "https://www.youtube.com/watch?v=b9vIpu0kAbE",
+    "11": "https://www.youtube.com/watch?v=VUgxCUd3Bsk",
+    "12": "https://www.youtube.com/watch?v=FMAcoACivPU",
+    "13": "https://www.youtube.com/watch?v=XXjgwpayNoM",
+    "14": "https://www.youtube.com/watch?v=ifrTLAd6UQY",
+  },
   "Death Note": {
     "1": "https://www.youtube.com/watch?v=8QE9cmfxx4s",
     "2": "https://www.youtube.com/watch?v=17QwzxR81XQ"
