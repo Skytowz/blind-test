@@ -2,29 +2,32 @@ let good = 0;
 let streak = 0;
 let count = 0;
 let record = 0;
+if(window.localStorage.getItem("record")){
+  record = window.localStorage.getItem("record");
+}
 
 const initPage = (id, anime, animes) => {
   const app = document.querySelector("#app");
   app.style.display = "none";
-  app.innerHTML = `<div data-video="${id}" data-autoplay="${count?1:0}" id="youtube-audio"></div>`
-  app.innerHTML+=`
-    <div class="score">
-      <p>${good}/${count} bonne réponse</p>
-      <p>${streak} bonne réponse à la suite</p>
-      <p>Record ${record}</p>
-    </div>
-    <form>
-        ${animes
-          .map((value) => {
-            return `<input type='button' value="${value}"></input>`;
-          })
-          .join(" ")}
-    </form>
-    <button id="next">
-      Suivant
-    </button>
+  app.innerHTML=`
+      <div class="score">
+        <p>${good}/${count} bonne réponse</p>
+        <p>${streak} bonne réponse à la suite</p>
+        <p>Record ${record}</p>
+      </div>
+      <div data-video="${id}" data-autoplay="${count?1:0}" id="youtube-audio"></div>
+      <div class="button">
+          ${animes
+            .map((value) => {
+              return `<button class="btn  btn-primary" data-value="${value}"><p>${value}</p></button>`;
+            })
+            .join(" ")}
+      </div>
+      <button class="btn btn-danger" id="next">
+        Suivant
+      </button>
     `;
-  const buttons = document.querySelectorAll("form input");
+  const buttons = document.querySelectorAll(".button button");
   buttons.forEach((button) =>
     button.addEventListener("click", (e) => handleClick(e, anime))
   );
@@ -117,13 +120,22 @@ const getIdVideo = (url) => {
 const handleClick = (e, anime) => {
   e.preventDefault();
   e.stopPropagation();
-  const name = e.target.value;
+  let target;
+  if(e.target.localName == "p"){
+    target = e.target.parentNode;
+  }else if(e.target.localName == "button"){
+    target = e.target;
+  }else{
+    return;
+  }
+  const name = target.dataset.value;
   count += 1;
   if (anime === name) {
     good += 1;
     streak += 1;
     if (streak > record) {
       record = streak;
+      window.localStorage.setItem("record",streak);
     }
   } else {
     streak = 0;

@@ -20,24 +20,26 @@ body{
     text-align: center;
 }
 
-form {
+.button {
     display: flex;
     width: 50%;
     flex-direction: row;
     flex-flow: wrap;
     justify-content: center;
 }
-
-form input {
+ 
+.button button {
     color: white;
     border: none;
     background-color: blue;
     text-align: center;
-    line-height: 50%;
+    font-size: 3vh;
+    /* line-height: 100%; */
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 5%;
     width: 25vmin;
     height: 25vmin;
-    border-radius: 50%;
+    line-break: strict;
+    border-radius: 20% !important;
 }
